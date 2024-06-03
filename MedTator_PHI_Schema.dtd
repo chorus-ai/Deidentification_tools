@@ -1,0 +1,34 @@
+<!ENTITY name "NEW_SCHEMA">
+
+<!-- entity concept [PERSON] -->
+<!ELEMENT PERSON ( #PCDATA ) >
+
+<!-- entity concept [LOCATION] -->
+<!ELEMENT LOCATION ( #PCDATA ) >
+
+<!-- entity concept [ORGANIZATION] -->
+<!ELEMENT ORGANIZATION ( #PCDATA ) >
+
+<!-- entity concept [AGE] -->
+<!ELEMENT AGE ( #PCDATA ) >
+
+<!-- entity concept [PHONE_NUMBER] -->
+<!ELEMENT PHONE_NUMBER ( #PCDATA ) >
+
+<!-- entity concept [EMAIL] -->
+<!ELEMENT EMAIL ( #PCDATA ) >
+
+<!-- entity concept [DATE_TIME] -->
+<!ELEMENT DATE_TIME ( #PCDATA ) >
+
+<!-- entity concept [ZIP] -->
+<!ELEMENT ZIP ( #PCDATA ) >
+
+<!-- entity concept [PROFESSION] -->
+<!ELEMENT PROFESSION ( #PCDATA ) >
+
+<!-- entity concept [USERNAME] -->
+<!ELEMENT USERNAME ( #PCDATA ) >
+
+<!-- entity concept [ID] -->
+<!ELEMENT ID ( #PCDATA ) >
